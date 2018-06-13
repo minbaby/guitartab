@@ -1,0 +1,11 @@
+{
+  "name": "guitartab",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:minbaby/guitartab.git",
+  "author": "霸气千秋 <zhangshaomin_1990@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "raphael": "^2.2.7"
+  }
+}
